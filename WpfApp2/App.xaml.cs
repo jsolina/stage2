@@ -34,7 +34,7 @@ namespace WpfApp2
 
             services.AddDbContext<IDatabaseContext, DatabaseContext>(option =>
             {
-                option.UseSqlite("Data Source = Task.db");
+                option.UseSqlite("Data Source = TodoApp2.db");
             });
 
             services.AddScoped<ITaskList, TaskListRepo>();
