@@ -100,7 +100,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -146,6 +146,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\63926\\Documents\\Visual Studio 2019\\clone\\stage2\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\63926\\Documents\\Visual Studio 2019\\clone\\stage2\\Domain\\Domain.csproj"
+              },
               "C:\\Users\\63926\\Documents\\Visual Studio 2019\\clone\\stage2\\Infrastracture\\Infrastracture.csproj": {
                 "projectPath": "C:\\Users\\63926\\Documents\\Visual Studio 2019\\clone\\stage2\\Infrastracture\\Infrastracture.csproj"
               }
@@ -162,17 +165,21 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "MaterialDesignThemes": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[3.2.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.0, )"
             },
-            "Microsoft.Extensions.DependencyInjection": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[12.0.3, )"
+            },
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
             }
           },
           "imports": [

@@ -5,8 +5,8 @@ using Domain.Models;
 
 namespace Domain.Contracts
 {
-    public interface IItem : IBaseRepo<Item>
+    public interface IItem : IBaseRepo<ItemModel>
     {
-        public IEnumerable<Item> FindByFK(int id);
+        public IEnumerable<ItemModel> FindByFK(object id);
     }
 }

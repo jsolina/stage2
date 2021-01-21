@@ -8,8 +8,8 @@ namespace Infrastracture.Persistence
 {
     public interface IDatabaseContext
     {
-        DbSet<TaskList> TaskLists { get; set; }
-        DbSet<Item> Items { get; set; }
+        DbSet<TaskListModel> TaskLists { get; set; }
+        DbSet<ItemModel> Items { get; set; }
         void Save();
 
         /*

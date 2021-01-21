@@ -7,30 +7,30 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="View\CreateUpdateItem.xaml.cs">
+    <Compile Update="View\AddUpdateItemView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\CreateUpdateTask.xaml.cs">
+    <Compile Update="View\AddUpdateTaskView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\ViewItems.xaml.cs">
+    <Compile Update="View\ItemsView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Window1.xaml.cs">
+    <Compile Update="View\TaskListView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="View\CreateUpdateItem.xaml">
+    <Page Update="View\AddUpdateItemView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\CreateUpdateTask.xaml">
+    <Page Update="View\AddUpdateTaskView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\ViewItems.xaml">
+    <Page Update="View\ItemsView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Window1.xaml">
+    <Page Update="View\TaskListView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

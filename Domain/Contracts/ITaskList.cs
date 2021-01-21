@@ -5,8 +5,8 @@ using Domain.Models;
 
 namespace Domain.Contracts
 {
-    public interface ITaskList : IBaseRepo<TaskList>
+    public interface ITaskList : IBaseRepo<TaskListModel>
     {
-        public IEnumerable<TaskList>FindByFK();
+        public IEnumerable<TaskListModel> FindByFK();
     }
 }
