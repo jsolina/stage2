@@ -1,20 +1,20 @@
 ﻿WpfApp2
-1.0.0.0
+
 
 winexe
 C#
 .cs
-c:\Users\63926\Documents\Visual Studio 2019\clone\stage2\WpfApp2\obj\Debug\netcoreapp3.1\
+C:\Users\63926\Documents\Visual Studio 2019\clone\stage2\WpfApp2\obj\Debug\netcoreapp3.1\
 WpfApp2
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-c:\Users\63926\Documents\Visual Studio 2019\clone\stage2\WpfApp2\App.xaml
-4-1473627227
+C:\Users\63926\Documents\Visual Studio 2019\clone\stage2\WpfApp2\App.xaml
+440276432
 
-13884816349
-2181621311842
+11267565881
+216776989612
 View\AddUpdateItemView.xaml;View\AddUpdateTaskView.xaml;View\ItemsView.xaml;View\TaskListView.xaml;
 
-True
+False
 

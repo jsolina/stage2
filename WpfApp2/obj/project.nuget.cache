@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CHiX1s4WtajBI4feLEbi6fdQKqnFLmeRnknbtursBrJuVffUBDSmV9ss5XH81iFvIJcCyr9dzqflbuOfGzCeHw==",
+  "dgSpecHash": "mwwikNGXiRVgZTrnO3fEyp0Sdor8/AOK1U6xIqYK4xPvLFVrju1Q1xmtRJSmK5/bEu03HvuT3FwZusAX4j7o7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\63926\\Documents\\Visual Studio 2019\\clone\\stage2\\WpfApp2\\WpfApp2.csproj",
   "expectedPackageFiles": [
@@ -24,8 +24,6 @@
     "C:\\Users\\63926\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\63926\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\63926\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
-    "C:\\Users\\63926\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\63926\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
     "C:\\Users\\63926\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\63926\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\63926\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",

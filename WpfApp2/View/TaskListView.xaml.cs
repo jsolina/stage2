@@ -1,8 +1,6 @@
 ﻿using System.Linq;
 using System.Windows;
 using WpfApp2.ViewModel;
-using Prism.Mvvm;
-using Prism.Commands;
 using System.Windows.Input;
 using Domain.Contracts;
 
