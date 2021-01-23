@@ -64,7 +64,7 @@ namespace WpfApp2.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfApp2;component/view/tasklistview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfApp2;V1.0.0.0;component/view/tasklistview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\TaskListView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
